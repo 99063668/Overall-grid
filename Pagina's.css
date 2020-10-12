@@ -1,0 +1,64 @@
+body {
+    font-family: 'Lato', sans-serif;
+    width: 1100px;
+    margin: auto;
+    display: grid;
+}
+
+.header {
+  background-image: url("img/header_bg.png");
+  background-repeat: space;
+
+  position: relative;
+  grid-column-start: 1;
+  grid-column-end: 5;
+
+  bottom: 1px;
+  left: 0%;
+  margin: 1px;
+}
+
+img.banner {
+  width: 450;
+  height: 300px;
+}
+
+div.container{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.topnav {
+    overflow: hidden;
+    background-color: rgba(22, 20, 20, 0.068);
+}
+  .topnav a {
+    float: right;
+    color: blue;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 14px;
+}
+  .topnav a:hover {
+    color: blue;
+}
+  .topnav a.active {
+    background-color:rgba(221, 215, 215, 0.795);
+    color: blue;
+}
+  
