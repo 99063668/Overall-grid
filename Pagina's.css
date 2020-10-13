@@ -42,7 +42,7 @@ img.bannerbg {
 }
 img.banner {
   position: absolute;
-  top: 140px;
+  top: 130px;
   left: 250px;
   width: 450;
   height: 300px;
@@ -56,6 +56,16 @@ img.header {
 }
 img.logo {
   position: relative;
+  top: 10px;
+  width: 289px;
+  height: 99px;
+}
+.footer {
+  position: absolute;
+  bottom: -100px;
+  left: 220px;
+  width: 1100px;
+  height: 50px;
 }
 
 
@@ -116,7 +126,7 @@ h2 {
   color: white;
   font-size: 14px;
   left: 910px;
-  top: 275px;
+  top: 280px;
 }
 .tekst7{
   z-index: 100;
@@ -124,7 +134,7 @@ h2 {
   color: white;
   font-size: 14px;
   left: 910px;
-  top: 290px;
+  top: 295px;
 }
 .tekst8{
   z-index: 100;
@@ -132,7 +142,7 @@ h2 {
   color: white;
   font-size: 14px;
   left: 910px;
-  top: 305px;
+  top: 310px;
 }
 .tekst9{
   z-index: 100;
@@ -140,21 +150,140 @@ h2 {
   color: white;
   font-size: 14px;
   left: 910px;
-  top: 320px;
+  top: 325px;
+} 
+h4 {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 255px;
+  Right: 20px;
+}
+.auto1 {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 625px;
+  Right: 20px;
+}
+.bonus1 {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 985px;
+  Right: 20px;
+}
+
+
+.fadetekst {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 255px;
+  Right: 20px;
+  bottom: -5px;
+}
+.fadetekst1 {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 255px;
+  Right: 20px;
+  bottom: -20px;
+}
+.fadetekst2 {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 255px;
+  Right: 20px;
+  bottom: -35px;
+}
+.autotekst {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 625px;
+  Right: 20px;
+  bottom: -5px;
+}
+.autotekst1 {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 625px;
+  Right: 20px;
+  bottom: -20px;
+}
+.autotekst2 {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 625px;
+  Right: 20px;
+  bottom: -35px;
+}
+.bonustekst {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 985px;
+  Right: 20px;
+  bottom: -5px;
+}
+.bonustekst1 {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 985px;
+  Right: 20px;
+  bottom: -20px;
+}
+.bonustekst2 {
+  color: rgb(94, 94, 226);
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 985px;
+  Right: 20px;
+  bottom: -35px;
+}
+
+
+.footertekst {
+  color: white;
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  left: 620px;
+  Right: 20px;
+  bottom: -100px;
 }
 
 
 .topnav {
   position: relative;
-    overflow: hidden;
-    background-color: rgba(22, 20, 20, 0.068);
+  overflow: hidden;
 }
   .topnav a {
-    position: relative;
-    float: right;
-    color: blue;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
-    font-size: 14px;
+  position: relative;
+  float: right;
+  color: blue;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 20px;
+  top: 25px;
 }
