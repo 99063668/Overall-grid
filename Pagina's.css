@@ -97,6 +97,8 @@ img.kleding {
   height: 300px;
   border: 5px;
   border-color: white;
+  border-style: solid;
+  
 }
 img.auto2 {
   position: absolute;
@@ -104,8 +106,9 @@ img.auto2 {
   left: 250px;
   width: 625px;
   height: 300px;
-  border: 5px;
+  border: 4px;
   border-color: white;
+  border-style: solid;
 }
 
 .footer {
