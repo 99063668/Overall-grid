@@ -117,8 +117,6 @@ img.header {
 img.logo {
   position: relative;
   top: 10px;
-  width: 289px;
-  height: 99px;
 }
 .footer {
   position: absolute;
@@ -326,7 +324,7 @@ h4 {
   font-size: 14px;
   line-height: 20px;
   position: absolute;
-  left: 620px;
+  left: 600px;
   Right: 20px;
   bottom: -100px;
 }
