@@ -107,23 +107,16 @@ img.auto2 {
   border: 5px;
   border-color: white;
 }
-img.header {
-  position: absolute;
-  top: -5px;
-  left: 220px;
-  width: 1100px;
-  height: 300px;
-}
-img.logo {
-  position: relative;
-  top: 10px;
-}
+
 .footer {
   position: absolute;
   bottom: -100px;
   left: 220px;
   width: 1100px;
   height: 50px;
+  grid-column-start: 1;
+  grid-column-end: 4;
+  grid-row: 2;
 }
 
 
@@ -344,4 +337,14 @@ h4 {
   font-size: 14px;
   line-height: 20px;
   top: 25px;
+}
+
+
+img.header {
+  position: absolute;
+  top: -5px;
+  left: 0px;
+  width: 1100px;
+  height: 250px;
+  z-index: -1;
 }
