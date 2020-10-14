@@ -35,42 +35,42 @@ div.container{
   grid-column-end: 3;
   grid-row: 1;
   height: 150px;
-  width: 280px;
+  width: 290px;
 }
 .autoimg2 {
   grid-column-start: 4;
   grid-column-end: 5;
   grid-row: 1;
   height: 150px;
-  width: 300px;
+  width: 295px;
 }
 .autoimg3 {
   grid-column-start: 6;
   grid-column-end: 7;
   grid-row: 1;
   height: 150px;
-  width: 300px;
+  width: 290px;
 }
 .kleren1 {
   grid-column-start: 2;
   grid-column-end: 3;
   grid-row: 1;
   height: 150px;
-  width: 300px;
+  width: 290px;
 }
 .kleren2 {
   grid-column-start: 4;
   grid-column-end: 5;
   grid-row: 1;
   height: 150px;
-  width: 300px;
+  width: 290px;
 }
 .kleren3 {
   grid-column-start: 6;
   grid-column-end: 7;
   grid-row: 1;
   height: 150px;
-  width: 300px;
+  width: 290px;
 }
 
 
