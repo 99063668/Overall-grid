@@ -13,7 +13,7 @@ div.container{
 .grid-container {
   display: grid;
   margin: 0 auto; 
-  grid-template-columns: auto auto auto auto auto;  
+  grid-template-columns: auto auto auto auto auto auto auto;  
 }
 .fade {
   grid-column-start: 2;
